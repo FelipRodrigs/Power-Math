@@ -1,0 +1,227 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.ret{
+  padding: 2rem;
+  background-color: black;
+}
+
+.azul{
+  background: #1F3F65;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+
+}
+.p1{
+
+   color:#FFFFFF;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.img{
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
+.blue-medio{
+  background: #0074AE;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}         
+
+.t2{
+  font-weight: bold;/*negrito*/
+  color:  #FFFFFF;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 10px;
+}
+.p2{
+   color:#FFFFFF;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.imge{
+
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
+.blue-claro{
+  padding: 1rem;
+  background: #67A6C9;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}   
+.t3{
+  font-weight: bold;/*negrito*/
+  color:#FFFFFF;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 20px;
+}
+.p3{
+   color: #FFFFFF;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.img3{
+  
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
+.blue-escuro{
+  padding: 1rem;
+  background: #005785;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}   
+.t4{
+  font-weight: bold;/*negrito*/
+  color:  #FFFFFF;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 10px;
+}
+.p4{
+  color:  #FFFFFF;
+  font-size: 20px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.img4{
+ 
+  align-items: center;
+  width: 150px;
+  height: 150px;
+  margin-top: 15px;
+}
+.quad2{
+  background: black;/*cor do retangulo atras da logo*/
+  padding: 2rem;/*grossura*/
+}
+
+
+@media screen and (min-width: 700px){
+  .azul{
+    padding: 10rem;
+    display: flex;
+    height: 200px;
+    
+  }
+  .img{
+    height: 180px;
+    width: 180px;
+    margin-left: 300px;
+    margin-top:-220px;
+  }
+  .p1{
+    
+    font-size:24px; 
+    width: 350px;
+    margin-right:350px;
+    margin-top: -120px;
+    
+  }
+
+  .blue-medio{
+    padding: 10rem;
+    display: flex;
+    height: 200px;
+  }
+  .imge{
+    height: 180px;
+    width: 180px;
+    margin-right: 450px;
+    margin-top:-220px;
+  }
+  .p2{
+
+    font-size:22px; 
+    width: 500px;
+    margin-left:300px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+
+  
+  }
+  .t2{
+     margin-top: -150px;
+    font-size:26px;
+  }
+  .blue-claro{
+    padding: 10rem;
+    display: flex;
+    height: 350px;
+  }
+  .img3{
+    height: 180px;
+    width: 180px;
+    margin-left: 480px;
+    margin-top:-220px;
+  }
+
+
+  .t3{
+     margin-top: -140px;
+    font-size:26px;
+  }
+
+  .p3{
+    font-size:22px; 
+    width: 500px;
+    margin-right:300px;
+    margin-top: -10px;
+  }
+  
+  .blue-escuro{
+    padding: 10rem;
+    display: flex;
+    height: 390px;
+  }
+  .img4{
+    height: 180px;
+    width: 180px;
+    margin-right: 450px;
+    margin-top:-170px;
+  }
+  .p4{
+    font-size:22px; 
+    width: 500px;
+    margin-left:300px;
+    margin-top: 10px;
+  }
+  
+  .t4{
+    margin-top: -130px;
+    font-size:26px;
+  }
+
+
+.quad2{
+  background: black;/*cor do retangulo atras da logo*/
+  padding: 1rem;/*grossura*/
+}
+
