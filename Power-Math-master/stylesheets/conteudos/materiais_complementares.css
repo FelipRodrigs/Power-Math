@@ -1,0 +1,205 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.t1{
+	text-align: center;
+	margin-top: 20px;
+	color: #1F3F65;
+}
+.v1{
+	margin-top: 25px;
+    
+}
+.v2{
+    margin-top: 15px;
+}
+.v3{
+	margin-top: 15px;
+}
+.v4{
+	margin-top: 15px;
+}
+.l1{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 180px;
+	height: 180px;
+}
+.g1{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 160px;
+	height: 180px;
+}
+
+
+
+.t2{
+	text-align: center;
+	margin-top: 20px;
+	color: #1F3F65;
+}
+.v5{
+	margin-top: 25px;
+    
+}
+.v6{
+   margin-top: 15px;
+}
+.v7{
+	margin-top: 15px;
+}
+.v8{
+	margin-top: 15px;
+}
+.l3{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 180px;
+	height: 180px;
+}
+.g3{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 160px;
+	height: 180px;
+}
+
+
+.t3{
+	text-align: center;
+	margin-top: 20px;
+	color: #1F3F65;
+}
+.v9{
+	margin-top: 25px;
+    
+}
+.v10{
+   margin-top: 15px;
+}
+.v11{
+	margin-top: 15px;
+}
+.v12{
+	margin-top: 15px;
+}
+.l4{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 180px;
+	height: 180px;
+}
+.g4{
+	margin-top: 15px;
+	margin-left: 25%;
+	width: 160px;
+	height: 180px;
+}
+.quad{
+	margin-top: 25px;
+	padding: 1rem;
+	background:  black;
+}
+
+
+@media screen and (min-width: 700px){
+.v1{
+	margin-left: 20%;
+}
+.v2{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+.v3{
+	margin-left: 20%;
+}
+.v4{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+.v5{
+	margin-left: 20%;
+}
+.v6{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+.v7{
+	margin-left: 20%;
+}
+.v8{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+
+.v9{
+	margin-left: 20%;
+}
+.v10{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+.v11{
+	margin-left: 20%;
+}
+.v12{
+	margin-top: -155px;
+	margin-left: 50%;
+}
+
+.l1{
+	margin-top: 15px;
+	margin-left: 30%;
+	width: 180px;
+	height: 180px;
+}
+.l2{
+	margin-top: 15px;
+	margin-left: 0%;
+	width: 180px;
+	height: 180px;
+}
+.g1{
+	margin-top: 15px;
+	margin-left: 0%;
+	width: 160px;
+	height: 180px;
+}
+.g2{
+	margin-top: 15px;
+	margin-left: 0%;
+	width: 160px;
+	height: 180px;
+}
+
+
+.l3{
+	margin-top: 15px;
+	margin-left: 32%;
+	width: 180px;
+	height: 180px;
+}
+.l4{
+	margin-top: 15px;
+	margin-left: 32%;
+	width: 180px;
+	height: 180px;
+}
+.g3{
+	margin-top: 15px;
+	margin-left: 0%;
+	width: 160px;
+	height: 180px;
+}
+.g4{
+	margin-top: 15px;
+	margin-left: 0%;
+	width: 160px;
+	height: 180px;
+}
+
+
+}
